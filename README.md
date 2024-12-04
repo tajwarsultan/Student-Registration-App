@@ -89,8 +89,8 @@ The Student Registration Application is a client-server system designed to manag
 
 3. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd student-registration-app
+   git clone https://github.com/tajwarsultan/Student-Registration-App.git
+   cd Student-Registration-App
    ```
 
 4. **Compile Java Server**
