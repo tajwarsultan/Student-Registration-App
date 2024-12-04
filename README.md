@@ -139,9 +139,3 @@ The Student Registration Application is a client-server system designed to manag
 - Check firewall settings
 - Verify port availability
 - Confirm Java and Python versions
-
-## Contact and Support
-For issues or contributions, please contact the project maintainers.
-
-## License
-[Specify your license here]# Student-Registration-App
